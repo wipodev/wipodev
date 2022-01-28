@@ -29,3 +29,5 @@ también puedes encontrarme en <a href="https://www.tiktok.com/@ajwipo" target="
 <a href="https://www.youtube.com/channel/UCMzpttcB6zhVQzYuzhggnQA" target="_blank" rel="noopener">
   <img align="center" src="https://github.com/AJ-Wi/AJ-Wi/blob/main/assets/banner.png">
 </a>
+
+## **Recuerda Todos podemos programar, pero juntos podemos aprender**
