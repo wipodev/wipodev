@@ -6,7 +6,7 @@
 
 </div>
 
-<img width="200" height="auto" align="right" src="https://github.com/AJ-Wi/AJ-Wi/blob/main/assets/logo.png">
+<img width="400" height="auto" align="right" src="https://github.com/AJ-Wi/AJ-Wi/blob/main/assets/logo_horizontal.png">
 
 Soy de **Venezuela** y desarrollador web autodidacta.
 
