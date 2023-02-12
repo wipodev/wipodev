@@ -1,4 +1,4 @@
-**Hola, bienvenidos a AJ-Wi el espacio donde aprendemos juntos**
+**Hola, bienvenidos a WipoDev el espacio donde aprendemos juntos**
 
 <div align="right">
 
