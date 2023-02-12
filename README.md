@@ -6,9 +6,9 @@
 
 </div>
 
-<img width="400" height="auto" align="right" src="https://github.com/AJ-Wi/AJ-Wi/blob/main/assets/logo_horizontal.png">
+<img width="400" height="auto" align="right" src="./assets/logo-main.svg">
 
-Soy de **Venezuela** y desarrollador web autodidacta.
+Soy de **Venezuela** y desarrollador autodidacta.
 
 La programación es algo que me ha fascinado desde hace años, sigo aprendiendo y quiero enseñar lo que se.
 
@@ -27,7 +27,7 @@ también puedes encontrarme en <a href="https://www.tiktok.com/@ajwipo" target="
 ![php](https://img.shields.io/badge/-php-4F5B93?style=plastic&logo=php&logoColor=white)
 
 <a href="https://www.youtube.com/channel/UCMzpttcB6zhVQzYuzhggnQA" target="_blank" rel="noopener">
-  <img align="center" src="https://github.com/AJ-Wi/AJ-Wi/blob/main/assets/banner.png">
+  <img align="center" src="./assets/banner.png">
 </a>
 
 ## **Recuerda Todos podemos programar, pero juntos podemos aprender**
