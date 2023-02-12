@@ -27,7 +27,7 @@ también puedes encontrarme en <a href="https://www.tiktok.com/@ajwipo" target="
 ![php](https://img.shields.io/badge/-php-4F5B93?style=plastic&logo=php&logoColor=white)
 
 <a href="https://www.youtube.com/channel/UCMzpttcB6zhVQzYuzhggnQA" target="_blank" rel="noopener">
-  <img align="center" src="./assets/banner.png">
+  <img align="center" src="./assets/banner-youtube.png">
 </a>
 
 ## **Recuerda Todos podemos programar, pero juntos podemos aprender**
