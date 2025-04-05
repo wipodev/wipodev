@@ -26,6 +26,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-663399?style=plastic&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=plastic&logo=vue.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=plastic&logo=svelte&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=plastic&logo=node.js&logoColor=white)
 ![php](https://img.shields.io/badge/-php-777BB4?style=plastic&logo=php&logoColor=white)
