@@ -41,3 +41,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wipodev&theme=github_dark)
 
 ## **Remember: Anyone can code, but together we can learn.**
+
+![](https://hit.yhype.me/github/profile?account_id=32320534)
